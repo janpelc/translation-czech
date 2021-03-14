@@ -1,0 +1,89 @@
+OVERLAYS
+    ">Saving",">Ukládání"
+    ">Checking for updates",">Zkontrolovat aktualizace"
+
+
+BUTTONS
+    "> Settings","> Nastavení"
+
+
+MENU ITEMS
+    ">Current page",">Aktuální stránka"
+    ">Menu",">Menu"
+    ">Files",">Soubory"
+    ">Themes",">Motivy"
+    ">Plugins",">Doplňky"
+    ">Security",">Zabezpečení"
+
+
+CURRENT PAGE
+    ">Page title",">Název"
+    ">Page keywords",">Klíčová slova"
+    ">Page description",">Popis"
+    "> Delete page","> Smazat stránku"
+    "return confirm\('Delete (.*?)\?'\)","Vrátit změny('Smazat $1?')"
+
+
+MENU
+    ">Website title",">Nadpis webové stránky"
+    ">Page to display on homepage",">Zobrazit jako domovskou stránku"
+    ">visit",">Zobrazit"
+    "> Add page","> Přidat stránku"
+
+
+FILES
+    ">Upload",">Nahrát"
+    ">Delete files",">Vymazat soubory"
+
+
+THEMES AND PLUGINS
+    "> Check for updates","> Zkontrolovat aktualizace"
+    "return confirm\('Remove (.*?)\?'\)","Vrátit změny('Smazat $1?')"
+    ">Active",">Aktivní"
+    "return confirm\('Activate (.*?) theme\?'\)","Vrátit změny('Aktivovat $1?')"
+    "> Activate","> Aktivovat"
+    "> More info","> Více informací"
+    "> Install","> Instalovat"
+    ">Installed version:",">Intalovaná verze:"
+    ">Custom repository",">Vlastní repozitář (repository)"
+    "Enter URL to custom repository","VLožit URL vlastního repozitáře"
+    "> Add", "> Přidat"
+    "> Read more about custom repositories","> Přečtěte si více o vlastních repozitářích"
+
+
+SECURITY
+    ">Admin login URL",">URL/admin login"
+    ">Save your login URL to log in to your website next time:",">Uložte si přihlašovací URL adresu a přihlaste se znovu na svůj web"
+    ">Password",">Heslo"
+    "Old password","Staré heslo"
+    "New password","Nové heslo"
+    "> Change password","> Změnit heslo"
+
+    "> How to restore backup","> Jak na obnovení ze zálohy"
+    ">Improved security \(Apache only\)",">Dodatečné zabezpečení (pouze Apache server)"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.",">Přesměrování HTTPS, 30denní ukládání do mezipaměti, prvky iframe povoleny pouze ze stejného zdroje, ošetření zdrojů typu mime, přísnější zásady souborů cookie a doporučení."
+    ">ON \(warning: may break your website\)",">ON (varování: může poškodit váš web)"
+    ">OFF \(reset htaccess to default\)",">OFF (obnovit výchozí htaccess)"
+    "> Read more before enabling","> Před povolením si přečtěte více"
+    ">Backup","> Zálohovat"
+    "> Backup website","> Zálohovat web"
+    ">Last 5 logins",">Posledních 5 přihlášení"
+
+
+STATISTICS
+    ">Statistics",">Statistiky"
+    ">Today",">Dnes"
+    ">This week",">Tento týden"
+    ">Most popular page",">Nejoblíbenější stránka"
+    ">Pageviews last two weeks",">Zobrazení stránek za poslední dva týdny"
+    ">Sessions last two weeks",">Zobrazení stránek za minulý měsíc"
+    ">Sessions",">Sessions"
+    ">Pageviews",">Počet zobrazení"
+
+
+FOOTER
+    ">News",">Novinky"
+    ">Community",">Fórum"
+    ">Docs",">Dokumentace"
+    ">Donate",">Donate"
+    ">Shop\/Merch",">Obchod"
